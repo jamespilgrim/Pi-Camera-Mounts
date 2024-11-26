@@ -29,4 +29,4 @@ Recommended print settings: 4 perimeter layers (less if the bolts are not expect
 
 Start by placing the nuts in their positions. It’s easier to place each of the three nuts into its respective indent, and then temporarily place a strip of tape (e.g., scotch) over the nut to keep it in place while assembling the mount. Next, mount the camera to the backplate using 4 2.5M bolts and nuts. Then mount the backplate to the gimbal base using 2 M4 bolts. Finally, secure the entire mount to whatever base will hold it by using an M5 bolt.
 
-The mount’s tilt and pan angles will generally stay put once the nuts are tightened, simply based on the friction between the parts. If the angles cannot be finely tuned, sanding the parts helps.
+The mount’s tilt and pan angles will generally stay put once the nuts are tightened, simply based on the friction between the parts. If the angles cannot be finely tuned due to the coarse surfaces, sanding the parts helps.
